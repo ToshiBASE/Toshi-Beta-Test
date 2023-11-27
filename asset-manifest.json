@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pussy-dapp/static/css/main.ba85805c.css",
-    "main.js": "/pussy-dapp/static/js/main.20e9205c.js",
+    "main.css": "/pussy-dapp/static/css/main.787fe4f2.css",
+    "main.js": "/pussy-dapp/static/js/main.e6734301.js",
     "static/js/148.ab469092.chunk.js": "/pussy-dapp/static/js/148.ab469092.chunk.js",
     "static/js/888.3093db4a.chunk.js": "/pussy-dapp/static/js/888.3093db4a.chunk.js",
     "static/js/642.26407754.chunk.js": "/pussy-dapp/static/js/642.26407754.chunk.js",
@@ -33,14 +33,22 @@
     "static/js/282.28c5f4b3.chunk.js": "/pussy-dapp/static/js/282.28c5f4b3.chunk.js",
     "static/js/419.2704fc13.chunk.js": "/pussy-dapp/static/js/419.2704fc13.chunk.js",
     "static/media/Toshi_Logo.svg": "/pussy-dapp/static/media/Toshi_Logo.b5175d2bcb8eb6b7a83ca26fd67ac064.svg",
-    "static/media/Toshi_name_logo.svg": "/pussy-dapp/static/media/Toshi_name_logo.e64584818cc82fd59f07a97b64e70226.svg",
     "static/media/PlanetComic.ttf": "/pussy-dapp/static/media/PlanetComic.de5c19d5b043f7419f68.ttf",
     "static/media/Prototype.ttf": "/pussy-dapp/static/media/Prototype.be9924a47c44090561d7.ttf",
+    "static/media/Toshi-name-logo.svg": "/pussy-dapp/static/media/Toshi-name-logo.cc0b51772a48cf026c8e078e2ee87aa7.svg",
     "static/media/PlanetComic.otf": "/pussy-dapp/static/media/PlanetComic.cc639748776b96b5ae5c.otf",
     "static/media/PlanetComic2.otf": "/pussy-dapp/static/media/PlanetComic2.cc639748776b96b5ae5c.otf",
+    "static/media/createToken.svg": "/pussy-dapp/static/media/createToken.8a58137c0b46f8417510649a3767af08.svg",
+    "static/media/launchpad.svg": "/pussy-dapp/static/media/launchpad.0dfe89d8c5ae3abb5f9b32cc8e1bb6af.svg",
+    "static/media/binoculars.svg": "/pussy-dapp/static/media/binoculars.63e332480cad13d02292ae40e1469f68.svg",
+    "static/media/telegram.svg": "/pussy-dapp/static/media/telegram.4ca64454f961bf5ed6a9aeb2ec26ea63.svg",
+    "static/media/swap.svg": "/pussy-dapp/static/media/swap.b2030a7346ae5c96c4818f5f9878086f.svg",
+    "static/media/twitter.svg": "/pussy-dapp/static/media/twitter.d5652e5cb2b1ac4615229561eeb4eaf8.svg",
+    "static/media/multisender.svg": "/pussy-dapp/static/media/multisender.efd8ea886fd0bcddffa61e3086a155fa.svg",
+    "static/media/lock.svg": "/pussy-dapp/static/media/lock.035123b57bf53c9bab32a269f5203687.svg",
     "index.html": "/pussy-dapp/index.html",
-    "main.ba85805c.css.map": "/pussy-dapp/static/css/main.ba85805c.css.map",
-    "main.20e9205c.js.map": "/pussy-dapp/static/js/main.20e9205c.js.map",
+    "main.787fe4f2.css.map": "/pussy-dapp/static/css/main.787fe4f2.css.map",
+    "main.e6734301.js.map": "/pussy-dapp/static/js/main.e6734301.js.map",
     "148.ab469092.chunk.js.map": "/pussy-dapp/static/js/148.ab469092.chunk.js.map",
     "888.3093db4a.chunk.js.map": "/pussy-dapp/static/js/888.3093db4a.chunk.js.map",
     "642.26407754.chunk.js.map": "/pussy-dapp/static/js/642.26407754.chunk.js.map",
@@ -72,7 +80,7 @@
     "419.2704fc13.chunk.js.map": "/pussy-dapp/static/js/419.2704fc13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba85805c.css",
-    "static/js/main.20e9205c.js"
+    "static/css/main.787fe4f2.css",
+    "static/js/main.e6734301.js"
   ]
 }
