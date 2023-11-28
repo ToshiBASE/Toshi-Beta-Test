@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pussy-dapp/static/css/main.787fe4f2.css",
-    "main.js": "/pussy-dapp/static/js/main.0f123c07.js",
+    "main.js": "/pussy-dapp/static/js/main.38198530.js",
     "static/js/148.ab469092.chunk.js": "/pussy-dapp/static/js/148.ab469092.chunk.js",
     "static/js/888.3093db4a.chunk.js": "/pussy-dapp/static/js/888.3093db4a.chunk.js",
     "static/js/642.26407754.chunk.js": "/pussy-dapp/static/js/642.26407754.chunk.js",
@@ -38,6 +38,7 @@
     "static/media/Toshi-name-logo.svg": "/pussy-dapp/static/media/Toshi-name-logo.cc0b51772a48cf026c8e078e2ee87aa7.svg",
     "static/media/PlanetComic.otf": "/pussy-dapp/static/media/PlanetComic.cc639748776b96b5ae5c.otf",
     "static/media/PlanetComic2.otf": "/pussy-dapp/static/media/PlanetComic2.cc639748776b96b5ae5c.otf",
+    "static/media/ComingSoon.svg": "/pussy-dapp/static/media/ComingSoon.08768d1b73039206061438e5cf094819.svg",
     "static/media/createToken.svg": "/pussy-dapp/static/media/createToken.8a58137c0b46f8417510649a3767af08.svg",
     "static/media/launchpad.svg": "/pussy-dapp/static/media/launchpad.0dfe89d8c5ae3abb5f9b32cc8e1bb6af.svg",
     "static/media/binoculars.svg": "/pussy-dapp/static/media/binoculars.63e332480cad13d02292ae40e1469f68.svg",
@@ -50,7 +51,7 @@
     "index.html": "/pussy-dapp/index.html",
     "static/media/Line.svg": "/pussy-dapp/static/media/Line.19748f32d1b897d80b36571a03661dc5.svg",
     "main.787fe4f2.css.map": "/pussy-dapp/static/css/main.787fe4f2.css.map",
-    "main.0f123c07.js.map": "/pussy-dapp/static/js/main.0f123c07.js.map",
+    "main.38198530.js.map": "/pussy-dapp/static/js/main.38198530.js.map",
     "148.ab469092.chunk.js.map": "/pussy-dapp/static/js/148.ab469092.chunk.js.map",
     "888.3093db4a.chunk.js.map": "/pussy-dapp/static/js/888.3093db4a.chunk.js.map",
     "642.26407754.chunk.js.map": "/pussy-dapp/static/js/642.26407754.chunk.js.map",
@@ -83,6 +84,6 @@
   },
   "entrypoints": [
     "static/css/main.787fe4f2.css",
-    "static/js/main.0f123c07.js"
+    "static/js/main.38198530.js"
   ]
 }
