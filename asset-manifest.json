@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pussy-dapp/static/css/main.0417b90d.css",
-    "main.js": "/pussy-dapp/static/js/main.18b6f212.js",
+    "main.js": "/pussy-dapp/static/js/main.a451894d.js",
     "static/js/148.ab469092.chunk.js": "/pussy-dapp/static/js/148.ab469092.chunk.js",
     "static/js/888.3093db4a.chunk.js": "/pussy-dapp/static/js/888.3093db4a.chunk.js",
     "static/js/642.26407754.chunk.js": "/pussy-dapp/static/js/642.26407754.chunk.js",
@@ -52,7 +52,7 @@
     "static/media/lock.svg": "/pussy-dapp/static/media/lock.443a990909fad4e56ca9f01dee07163c.svg",
     "static/media/Line.svg": "/pussy-dapp/static/media/Line.19748f32d1b897d80b36571a03661dc5.svg",
     "main.0417b90d.css.map": "/pussy-dapp/static/css/main.0417b90d.css.map",
-    "main.18b6f212.js.map": "/pussy-dapp/static/js/main.18b6f212.js.map",
+    "main.a451894d.js.map": "/pussy-dapp/static/js/main.a451894d.js.map",
     "148.ab469092.chunk.js.map": "/pussy-dapp/static/js/148.ab469092.chunk.js.map",
     "888.3093db4a.chunk.js.map": "/pussy-dapp/static/js/888.3093db4a.chunk.js.map",
     "642.26407754.chunk.js.map": "/pussy-dapp/static/js/642.26407754.chunk.js.map",
@@ -85,6 +85,6 @@
   },
   "entrypoints": [
     "static/css/main.0417b90d.css",
-    "static/js/main.18b6f212.js"
+    "static/js/main.a451894d.js"
   ]
 }
