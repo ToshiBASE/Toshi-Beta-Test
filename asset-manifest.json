@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pussy-dapp/static/css/main.e03040e4.css",
-    "main.js": "/pussy-dapp/static/js/main.93d61979.js",
+    "main.css": "/pussy-dapp/static/css/main.0417b90d.css",
+    "main.js": "/pussy-dapp/static/js/main.dba4b46c.js",
     "static/js/148.ab469092.chunk.js": "/pussy-dapp/static/js/148.ab469092.chunk.js",
     "static/js/888.3093db4a.chunk.js": "/pussy-dapp/static/js/888.3093db4a.chunk.js",
     "static/js/642.26407754.chunk.js": "/pussy-dapp/static/js/642.26407754.chunk.js",
@@ -44,6 +44,7 @@
     "static/media/telegram.svg": "/pussy-dapp/static/media/telegram.4ca64454f961bf5ed6a9aeb2ec26ea63.svg",
     "static/media/swap.svg": "/pussy-dapp/static/media/swap.b2030a7346ae5c96c4818f5f9878086f.svg",
     "static/media/calendar.svg": "/pussy-dapp/static/media/calendar.6679c7096b7c44b6d4d31c05fc70f500.svg",
+    "static/media/danger.svg": "/pussy-dapp/static/media/danger.626a2837f0104ea0b1082ebbd5a0e35f.svg",
     "static/media/twitter.svg": "/pussy-dapp/static/media/twitter.d5652e5cb2b1ac4615229561eeb4eaf8.svg",
     "static/media/bit_black.svg": "/pussy-dapp/static/media/bit_black.b98f881dcd74d96159e01e2836770be3.svg",
     "static/media/multisender.svg": "/pussy-dapp/static/media/multisender.efd8ea886fd0bcddffa61e3086a155fa.svg",
@@ -51,8 +52,8 @@
     "static/media/eth_black.svg": "/pussy-dapp/static/media/eth_black.6be91800841a6d2e3d3779c3784f64d3.svg",
     "index.html": "/pussy-dapp/index.html",
     "static/media/Line.svg": "/pussy-dapp/static/media/Line.19748f32d1b897d80b36571a03661dc5.svg",
-    "main.e03040e4.css.map": "/pussy-dapp/static/css/main.e03040e4.css.map",
-    "main.93d61979.js.map": "/pussy-dapp/static/js/main.93d61979.js.map",
+    "main.0417b90d.css.map": "/pussy-dapp/static/css/main.0417b90d.css.map",
+    "main.dba4b46c.js.map": "/pussy-dapp/static/js/main.dba4b46c.js.map",
     "148.ab469092.chunk.js.map": "/pussy-dapp/static/js/148.ab469092.chunk.js.map",
     "888.3093db4a.chunk.js.map": "/pussy-dapp/static/js/888.3093db4a.chunk.js.map",
     "642.26407754.chunk.js.map": "/pussy-dapp/static/js/642.26407754.chunk.js.map",
@@ -84,7 +85,7 @@
     "419.2704fc13.chunk.js.map": "/pussy-dapp/static/js/419.2704fc13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e03040e4.css",
-    "static/js/main.93d61979.js"
+    "static/css/main.0417b90d.css",
+    "static/js/main.dba4b46c.js"
   ]
 }
