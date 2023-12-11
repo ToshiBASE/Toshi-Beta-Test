@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Toshi-Beta-Test/static/css/main.c20f6d61.css",
-    "main.js": "/Toshi-Beta-Test/static/js/main.8e9a8c7c.js",
+    "main.css": "/Toshi-Beta-Test/static/css/main.23a191f6.css",
+    "main.js": "/Toshi-Beta-Test/static/js/main.1fc14dc3.js",
     "static/js/94.d4bc88e6.chunk.js": "/Toshi-Beta-Test/static/js/94.d4bc88e6.chunk.js",
     "static/js/914.f5031a07.chunk.js": "/Toshi-Beta-Test/static/js/914.f5031a07.chunk.js",
     "static/js/333.92ff1de8.chunk.js": "/Toshi-Beta-Test/static/js/333.92ff1de8.chunk.js",
@@ -76,8 +76,8 @@
     "index.html": "/Toshi-Beta-Test/index.html",
     "static/media/lock.svg": "/Toshi-Beta-Test/static/media/lock.443a990909fad4e56ca9f01dee07163c.svg",
     "static/media/Line.svg": "/Toshi-Beta-Test/static/media/Line.19748f32d1b897d80b36571a03661dc5.svg",
-    "main.c20f6d61.css.map": "/Toshi-Beta-Test/static/css/main.c20f6d61.css.map",
-    "main.8e9a8c7c.js.map": "/Toshi-Beta-Test/static/js/main.8e9a8c7c.js.map",
+    "main.23a191f6.css.map": "/Toshi-Beta-Test/static/css/main.23a191f6.css.map",
+    "main.1fc14dc3.js.map": "/Toshi-Beta-Test/static/js/main.1fc14dc3.js.map",
     "94.d4bc88e6.chunk.js.map": "/Toshi-Beta-Test/static/js/94.d4bc88e6.chunk.js.map",
     "914.f5031a07.chunk.js.map": "/Toshi-Beta-Test/static/js/914.f5031a07.chunk.js.map",
     "333.92ff1de8.chunk.js.map": "/Toshi-Beta-Test/static/js/333.92ff1de8.chunk.js.map",
@@ -127,7 +127,7 @@
     "419.828b33a4.chunk.js.map": "/Toshi-Beta-Test/static/js/419.828b33a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c20f6d61.css",
-    "static/js/main.8e9a8c7c.js"
+    "static/css/main.23a191f6.css",
+    "static/js/main.1fc14dc3.js"
   ]
 }
