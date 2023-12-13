@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Toshi-Beta-Test/static/css/main.23a191f6.css",
-    "main.js": "/Toshi-Beta-Test/static/js/main.f164a99c.js",
+    "main.js": "/Toshi-Beta-Test/static/js/main.3c19dd86.js",
     "static/js/458.b9c79bcc.chunk.js": "/Toshi-Beta-Test/static/js/458.b9c79bcc.chunk.js",
     "static/js/858.5f2287d3.chunk.js": "/Toshi-Beta-Test/static/js/858.5f2287d3.chunk.js",
     "static/js/94.d4bc88e6.chunk.js": "/Toshi-Beta-Test/static/js/94.d4bc88e6.chunk.js",
@@ -79,7 +79,7 @@
     "static/media/lock.svg": "/Toshi-Beta-Test/static/media/lock.443a990909fad4e56ca9f01dee07163c.svg",
     "static/media/Line.svg": "/Toshi-Beta-Test/static/media/Line.19748f32d1b897d80b36571a03661dc5.svg",
     "main.23a191f6.css.map": "/Toshi-Beta-Test/static/css/main.23a191f6.css.map",
-    "main.f164a99c.js.map": "/Toshi-Beta-Test/static/js/main.f164a99c.js.map",
+    "main.3c19dd86.js.map": "/Toshi-Beta-Test/static/js/main.3c19dd86.js.map",
     "458.b9c79bcc.chunk.js.map": "/Toshi-Beta-Test/static/js/458.b9c79bcc.chunk.js.map",
     "858.5f2287d3.chunk.js.map": "/Toshi-Beta-Test/static/js/858.5f2287d3.chunk.js.map",
     "94.d4bc88e6.chunk.js.map": "/Toshi-Beta-Test/static/js/94.d4bc88e6.chunk.js.map",
@@ -130,6 +130,6 @@
   },
   "entrypoints": [
     "static/css/main.23a191f6.css",
-    "static/js/main.f164a99c.js"
+    "static/js/main.3c19dd86.js"
   ]
 }
