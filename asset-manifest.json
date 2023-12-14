@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Toshi-Beta-Test/static/css/main.23a191f6.css",
-    "main.js": "/Toshi-Beta-Test/static/js/main.f7b33b8e.js",
+    "main.js": "/Toshi-Beta-Test/static/js/main.fc83c4a1.js",
     "static/js/458.b9c79bcc.chunk.js": "/Toshi-Beta-Test/static/js/458.b9c79bcc.chunk.js",
     "static/js/858.5f2287d3.chunk.js": "/Toshi-Beta-Test/static/js/858.5f2287d3.chunk.js",
     "static/js/94.d4bc88e6.chunk.js": "/Toshi-Beta-Test/static/js/94.d4bc88e6.chunk.js",
@@ -51,6 +51,7 @@
     "static/js/511.8450eef2.chunk.js": "/Toshi-Beta-Test/static/js/511.8450eef2.chunk.js",
     "static/js/419.828b33a4.chunk.js": "/Toshi-Beta-Test/static/js/419.828b33a4.chunk.js",
     "static/media/Success_Image.svg": "/Toshi-Beta-Test/static/media/Success_Image.dddb6cd1605399cf0f8983f8e46b8a0e.svg",
+    "static/media/ComingSoon.png": "/Toshi-Beta-Test/static/media/ComingSoon.4da74507900a1372268b.png",
     "static/media/Toshi_Logo.png": "/Toshi-Beta-Test/static/media/Toshi_Logo.c3e46f97ca24353faed6.png",
     "static/media/Toshi_Text.png": "/Toshi-Beta-Test/static/media/Toshi_Text.c288e36533b783903a89.png",
     "static/media/ToshiCat.svg": "/Toshi-Beta-Test/static/media/ToshiCat.99a46cc33ce12f4d5c4f1bef922b0bb7.svg",
@@ -63,7 +64,6 @@
     "static/media/home-multi.svg": "/Toshi-Beta-Test/static/media/home-multi.f71b528615acbc707ececb369a62ec8f.svg",
     "static/media/home-swap.svg": "/Toshi-Beta-Test/static/media/home-swap.a4ea4e233624312647ec9caf54644548.svg",
     "static/media/home-lock.svg": "/Toshi-Beta-Test/static/media/home-lock.e3fa56c0327ec627d65d2306a319c513.svg",
-    "static/media/ComingSoon.svg": "/Toshi-Beta-Test/static/media/ComingSoon.08768d1b73039206061438e5cf094819.svg",
     "static/media/launchpad.svg": "/Toshi-Beta-Test/static/media/launchpad.983dee2380421fb3c279000bc7e83cec.svg",
     "static/media/multisender.svg": "/Toshi-Beta-Test/static/media/multisender.efc2dd28e19be706d048197090d89397.svg",
     "static/media/createToken.svg": "/Toshi-Beta-Test/static/media/createToken.63c170eaf0805a8e5ceb29dbd0548283.svg",
@@ -79,7 +79,7 @@
     "static/media/lock.svg": "/Toshi-Beta-Test/static/media/lock.443a990909fad4e56ca9f01dee07163c.svg",
     "static/media/Line.svg": "/Toshi-Beta-Test/static/media/Line.19748f32d1b897d80b36571a03661dc5.svg",
     "main.23a191f6.css.map": "/Toshi-Beta-Test/static/css/main.23a191f6.css.map",
-    "main.f7b33b8e.js.map": "/Toshi-Beta-Test/static/js/main.f7b33b8e.js.map",
+    "main.fc83c4a1.js.map": "/Toshi-Beta-Test/static/js/main.fc83c4a1.js.map",
     "458.b9c79bcc.chunk.js.map": "/Toshi-Beta-Test/static/js/458.b9c79bcc.chunk.js.map",
     "858.5f2287d3.chunk.js.map": "/Toshi-Beta-Test/static/js/858.5f2287d3.chunk.js.map",
     "94.d4bc88e6.chunk.js.map": "/Toshi-Beta-Test/static/js/94.d4bc88e6.chunk.js.map",
@@ -130,6 +130,6 @@
   },
   "entrypoints": [
     "static/css/main.23a191f6.css",
-    "static/js/main.f7b33b8e.js"
+    "static/js/main.fc83c4a1.js"
   ]
 }
