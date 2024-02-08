@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fe3a6d03.css",
-    "main.js": "/static/js/main.f9955dce.js",
+    "main.js": "/static/js/main.2480f12c.js",
     "static/js/6458.21618bf5.chunk.js": "/static/js/6458.21618bf5.chunk.js",
     "static/js/9858.5376ace6.chunk.js": "/static/js/9858.5376ace6.chunk.js",
     "static/js/8094.f1e31c2c.chunk.js": "/static/js/8094.f1e31c2c.chunk.js",
@@ -62,25 +62,31 @@
     "static/media/Toshi_Logo.svg": "/static/media/Toshi_Logo.b5175d2bcb8eb6b7a83ca26fd67ac064.svg",
     "static/media/Prototype.ttf": "/static/media/Prototype.be9924a47c44090561d7.ttf",
     "static/media/swap.svg": "/static/media/swap.9e83cae1d37195baeac78d3a1193763f.svg",
+    "static/media/tokenIcon.svg": "/static/media/tokenIcon.78e2850ae0192ab782d97913850bf6d6.svg",
     "static/media/home-token.svg": "/static/media/home-token.b15e6a00b66d069af1da5904f2b0c47b.svg",
     "static/media/home-launchpad.svg": "/static/media/home-launchpad.a22c297fa460c0df80bdbc865b861ba5.svg",
     "static/media/home-multi.svg": "/static/media/home-multi.f71b528615acbc707ececb369a62ec8f.svg",
     "static/media/home-swap.svg": "/static/media/home-swap.a4ea4e233624312647ec9caf54644548.svg",
     "static/media/home-lock.svg": "/static/media/home-lock.e3fa56c0327ec627d65d2306a319c513.svg",
+    "static/media/money.svg": "/static/media/money.a69353a267ba8278c4a4d1e6c52c13ff.svg",
+    "static/media/back-button.svg": "/static/media/back-button.5a0df44dd77be4724fef0c4a1d9d033b.svg",
     "static/media/launchpad.svg": "/static/media/launchpad.983dee2380421fb3c279000bc7e83cec.svg",
     "static/media/multisender.svg": "/static/media/multisender.efc2dd28e19be706d048197090d89397.svg",
     "static/media/createToken.svg": "/static/media/createToken.63c170eaf0805a8e5ceb29dbd0548283.svg",
     "static/media/base-logo.svg": "/static/media/base-logo.7e4f1b64e4b8b8e86c3e366dacd907d9.svg",
     "static/media/telegram.svg": "/static/media/telegram.4ca64454f961bf5ed6a9aeb2ec26ea63.svg",
+    "static/media/smart-contracts.svg": "/static/media/smart-contracts.471eb13214cc3a806905365dc35a767d.svg",
     "static/media/danger.svg": "/static/media/danger.626a2837f0104ea0b1082ebbd5a0e35f.svg",
     "static/media/binoculars.svg": "/static/media/binoculars.77bcfd539121ed80548085541c5fd80d.svg",
     "static/media/twitter.svg": "/static/media/twitter.d5652e5cb2b1ac4615229561eeb4eaf8.svg",
     "static/media/hamburger.svg": "/static/media/hamburger.d938da2ae27dded65b757637f89a324e.svg",
+    "static/media/calendar.svg": "/static/media/calendar.afca39668491235a6ffc4f81384a4106.svg",
+    "static/media/record.svg": "/static/media/record.0069fbfd343b4934f0793f08d2a0f118.svg",
     "index.html": "/index.html",
     "static/media/lock.svg": "/static/media/lock.443a990909fad4e56ca9f01dee07163c.svg",
     "static/media/Line.svg": "/static/media/Line.19748f32d1b897d80b36571a03661dc5.svg",
     "main.fe3a6d03.css.map": "/static/css/main.fe3a6d03.css.map",
-    "main.f9955dce.js.map": "/static/js/main.f9955dce.js.map",
+    "main.2480f12c.js.map": "/static/js/main.2480f12c.js.map",
     "6458.21618bf5.chunk.js.map": "/static/js/6458.21618bf5.chunk.js.map",
     "9858.5376ace6.chunk.js.map": "/static/js/9858.5376ace6.chunk.js.map",
     "8094.f1e31c2c.chunk.js.map": "/static/js/8094.f1e31c2c.chunk.js.map",
@@ -135,6 +141,6 @@
   },
   "entrypoints": [
     "static/css/main.fe3a6d03.css",
-    "static/js/main.f9955dce.js"
+    "static/js/main.2480f12c.js"
   ]
 }
